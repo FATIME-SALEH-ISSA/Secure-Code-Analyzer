@@ -1,8 +1,5 @@
-import ast, io, json, os, re, shlex, subprocess, sys, tempfile
-from collections import Counter
-import matplotlib.pyplot as plt
+
 streamlit==1.66.0
-matplotlib
 bandit==1.9.4
 matplotlib==3.11.2
 fpdf2==2.9.0
